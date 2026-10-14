@@ -1,12 +1,18 @@
 # MOOCentral V2 – System Architecture
 
-This diagram illustrates the main components of MOOCentral V2 and how they interact.
+The following diagram illustrates the main components of MOOCentral V2 and how they interact.
 
-- **Celery Beat:** schedules recurring scraping tasks.
-- **Redis:** manages the task queue.
-- **Celery Worker:** executes scraping tasks.
-- **MOOC Platform Scraper:** collects course data using Python, Django, and Selenium.
-- **Neo4j and Neomodel:** store and manage course data.
-- **Data API:** provides the API interface shown in the original architecture.
+![MOOCentral V2 System Architecture](system-architecture.png)
 
-The system automates the collection and updating of course information from multiple MOOC platforms.
+## Main Components
+
+- **Celery Beat:** Schedules recurring scraping tasks.
+- **Redis:** Manages the task queue and acts as the message broker.
+- **Celery Worker:** Executes scheduled scraping tasks.
+- **MOOC Platform Scraper:** Collects course data using Python, Django, and Selenium.
+- **Neo4j and Neomodel:** Store and manage course data in a graph database.
+- **Data API:** Provides an API interface for interacting with the service.
+
+The system automates the collection, validation, and updating of course information from multiple MOOC platforms.
+
+![MOOCentral V2 System Architecture](system-architecture.png)
