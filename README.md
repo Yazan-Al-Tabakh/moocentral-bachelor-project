@@ -8,7 +8,7 @@ MOOCentral V2 is an enhanced system for collecting, updating, and managing cours
 
 This project was developed as part of my Bachelor's thesis, *Improving Data Collection and Management in MOOCentral*. It builds upon an existing system and focuses on improving automation, scraping efficiency, data consistency, and periodic updates.
 
-MOOCentral is part of the broader [CourseMapper project](https://coursemapper.de/landingPage), which focuses on supporting learners in discovering and navigating online courses.
+MOOCentral is part of the broader [CourseMapper project](https://coursemapper.de/about), which focuses on supporting learners in discovering and navigating online courses.
 
 ## Key Features
 
