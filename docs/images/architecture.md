@@ -2,7 +2,7 @@
 
 The following diagram illustrates the main components of MOOCentral V2 and how they interact.
 
-![MOOCentral V2 System Architecture](system-architecture.png)
+
 
 ## Main Components
 
