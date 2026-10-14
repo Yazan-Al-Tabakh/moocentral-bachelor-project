@@ -15,4 +15,4 @@ The following diagram illustrates the main components of MOOCentral V2 and how t
 
 The system automates the collection, validation, and updating of course information from multiple MOOC platforms.
 
-![MOOCentral V2 System Architecture](system-architecture.png)
+![MOOCentral V2 System Architecture](mooc-system-architecture.png)
