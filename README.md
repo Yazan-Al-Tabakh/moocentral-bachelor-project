@@ -64,4 +64,4 @@ This repository presents an overview of the project, its architecture, and its e
 
 ## Author
 
-Mhd Yazan Al Tabakh
+Mohamad Yazan Al Tabakh
