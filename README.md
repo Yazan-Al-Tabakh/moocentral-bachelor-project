@@ -4,7 +4,7 @@
 
 ## Overview
 
-MOOCentral V2 is an enhanced system for collecting, updating, and managing course data from multiple Massive Open Online Course (MOOC) platforms.
+MOOCentral V2 is an enhanced system for collecting, updating, and managing course data from 10 Massive Open Online Course (MOOC) platforms.
 
 This project was developed as part of my Bachelor's thesis, *Improving Data Collection and Management in MOOCentral*. It builds upon an existing system and focuses on improving automation, scraping efficiency, data consistency, and periodic updates.
 
@@ -65,7 +65,7 @@ The graph model connects course information with its associated platforms, instr
 The evaluation in my Bachelor's thesis compared MOOCentral V2 with its predecessor, MOOCentral V1.
 
 - **57.8% average improvement in execution time** across the evaluated MOOC platforms.
-- **100% completeness** on most evaluated platforms.
+- **100% completeness** on 9 of 10 evaluated platforms.
 - **100% exactness** for extracted attributes in most cases.
 - **Approximately 32.87% completeness for Udemy**, reflecting platform scale and execution constraints.
 
